@@ -26,8 +26,10 @@ If non-healers leave and join the raid, all should stay the same.
 
 Still, dont change raid composition midfight as some updatefunctions are disabled then to improve performance.
 
-Note:
-The healing list has a limit of 15 players at the moment, if you have more healers in the raid for loatheb youre doing something wrong anyway. but keep that in mind if you test the addon outside the loatheb fight.
-
 Warning:
 You can and should use the "/loatheb master" command again to "sign off" master mode, before someone else becomes new master, as the program will bug otherwise. 
+
+
+Changes for turtle edition:
+Up to 20 players will show up as healers you can add to the list. This was done because not all druid/priest/paladin/shamans are healers, so you have DPS/tanks taking up spots and potentially pushing healers off the list.
+Added shaman blue for any shamans in group to better differentiate between paladin and shaman in cross faction raids.

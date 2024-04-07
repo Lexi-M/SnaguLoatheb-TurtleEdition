@@ -32,4 +32,5 @@ You can and should use the "/loatheb master" command again to "sign off" master 
 
 Changes for turtle edition:
 Up to 20 players will show up as healers you can add to the list. This was done because not all druid/priest/paladin/shamans are healers, so you have DPS/tanks taking up spots and potentially pushing healers off the list.
+
 Added shaman blue for any shamans in group to better differentiate between paladin and shaman in cross faction raids.

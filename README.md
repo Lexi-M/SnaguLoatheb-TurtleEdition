@@ -34,3 +34,4 @@ Changes for turtle edition:
 Up to 20 players will show up as healers you can add to the list. This was done because not all druid/priest/paladin/shamans are healers, so you have DPS/tanks taking up spots and potentially pushing healers off the list.
 
 Added shaman blue for any shamans in group to better differentiate between paladin and shaman in cross faction raids.
+![image](https://github.com/Lexi-M/SnaguLoatheb-TurtleEdition/assets/25810411/8694ac22-8bff-40a4-be64-9ad2d73d46a6)

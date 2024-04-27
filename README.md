@@ -1,6 +1,25 @@
 # SnagaLoatheb
 Loatheb healing rotation addon 
 Minor modifications made for v 1.12 compatibility
+Credit to original author, Snaga who made this addon a very long time ago.
+# HOW TO INSTALL (RELEASES)
+
+First, you want to navigate to the releases button on the right side of the page.
+![image](https://github.com/Lexi-M/SnaguLoatheb-TurtleEdition/assets/25810411/e43e0d73-85d3-4996-9caf-e6c172ac160b)
+
+Next, you will want to click on SnagaLoa.zip
+![image](https://github.com/Lexi-M/SnaguLoatheb-TurtleEdition/assets/25810411/1c4648b6-d0df-44d1-9f6c-1619406fbbfd)
+
+Unzip this folder, and place it into your addons folder. I have included a release of the addon so that there is no renaming of the folder neccesary to install the addon!
+
+# HOW TO INSTALL(DOWNLOAD FROM REPO)
+
+Download the zip via the code button near the top
+![image](https://github.com/Lexi-M/SnaguLoatheb-TurtleEdition/assets/25810411/d0d1daec-c881-4e7e-9b4e-bc7b27bc4a60)
+
+Unzip it and rename to "SnagaLoa" and drop into your addons folder.
+
+# ABOUT THE ADDON
 
 Loatheb Addon that helps setting up a healing rotation for the MT. Fully customizable list.
 The list will contain healers in their class colors so you can see who is next in line for healing. Once someone heals and therefore has the healing debuff they will show as RED, if theyre dead they will show as GREY.
